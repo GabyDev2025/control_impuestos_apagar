@@ -5,6 +5,7 @@ import pandas as pd
 import os
 import calendar
 
+# # Mejora 01.2026: solo de cambia el periodo a controlar
 # ===============================
 # CONFIGURACIÓN GENERAL
 # ===============================
